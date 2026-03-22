@@ -3,6 +3,7 @@
 A platform designed to visualize real-time threat indicators and analyze raw intelligence reports using Natural Language Processing. 
 
 Instead of reading static logs, this dashboard acts as a virtual pinboard for security analysts to track malware families, C2 infrastructure, and malicious actors.
+<img width="906" height="719" alt="dashboard-preview" src="https://github.com/user-attachments/assets/0d64f3bb-c01a-4a7e-b14e-bd0b80a788c3" />
 
 ##  Key Features
 * **Live OSINT Ingestion:** Automatically polls the ThreatFox API to pull the latest global indicators of compromise (IoCs).
